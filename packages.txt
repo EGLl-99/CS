@@ -4,3 +4,13 @@ build-essential
 python3-dev
 gdal-bin
 libgdal-dev
+geemap
+geopandas
+jupyter-server-proxy
+keplergl
+folium
+leafmap
+localtileserver
+nbserverproxy
+streamlit
+streamlit-option-menu
