@@ -1,4 +1,10 @@
 --find-links=https://girder.github.io/large_image_wheels GDAL
+ffmpeg
+gifsicle
+build-essential
+python3-dev
+gdal-bin
+libgdal-dev
 geemap
 geopandas
 jupyter-server-proxy
