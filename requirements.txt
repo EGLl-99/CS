@@ -3,9 +3,10 @@ geemap
 geopandas
 jupyter-server-proxy
 keplergl
+folium
 leafmap
 localtileserver
 nbserverproxy
 streamlit
-streamlit_option_menu
+streamlit-option-menu
 
